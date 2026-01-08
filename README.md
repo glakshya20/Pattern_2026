@@ -1,5 +1,5 @@
 # Pattern_2026
-![alt text](https://github.com/ekapolc/nlp_2026/blob/main/patterns.jpg "butt or bread")
+![alt text](https://github.com/ekapolc/Pattern_2026/blob/main/patterns.jpg "butt or bread")
 
 
 Pattern Recognition Course @ Chula 2025/2
